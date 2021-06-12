@@ -1,7 +1,7 @@
 study_note
 ====================
 
-javascript 1주차
+javascript 1주차~2주차
 ------------
 ### 변수의 종류  
   + number  
